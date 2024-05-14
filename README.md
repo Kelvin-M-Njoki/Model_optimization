@@ -46,8 +46,4 @@ Ensure these dependencies are installed in your Python environment.
 
 This notebook is authored by Kelvin Mwenda.
 
-### Feedback and Contributions
 
-Feedback and contributions are welcome! If you find any issues or have
-suggestions for improvement, please open an issue or create a pull
-request in the repository.
