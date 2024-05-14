@@ -1,11 +1,11 @@
-## Classification Model Optimization
+# Classification Model Optimization
 
 This repository contains a Jupyter Notebook focused on tackling a
 classification problem by optimizing hyperparameters using techniques
 like grid search. The notebook provides a structured approach to model
 optimization and evaluation.
 
-\### Notebook Structure
+### Notebook Structure
 
 1\. Data Loading and Exploration:  - We start by loading the
 dataset to understand the predictor and response variables we\'ll be
@@ -24,7 +24,7 @@ log-loss, to evaluate the model\'s performance.
 strategy, we optimize the hyperparameters of the SVC to enhance the
 model\'s performance.
 
-\### Usage
+### Usage
 
 To utilize the notebook effectively:
 
@@ -42,11 +42,11 @@ The following libraries are required to run the notebook:
 
 Ensure these dependencies are installed in your Python environment.
 
-\### Author
+### Author
 
 This notebook is authored by Kelvin Mwenda.
 
-\### Feedback and Contributions
+### Feedback and Contributions
 
 Feedback and contributions are welcome! If you find any issues or have
 suggestions for improvement, please open an issue or create a pull
