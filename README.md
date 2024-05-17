@@ -26,7 +26,7 @@ model\'s performance.
 
 ### Usage
 
-To utilize the notebook effectively:
+steps 
 
 1\. Clone the repository to your local machine. 2. Open the Jupyter
 Notebook \`classification_model_optimization.ipynb\` using Jupyter
@@ -44,6 +44,6 @@ Ensure these dependencies are installed in your Python environment.
 
 ### Author
 
-This notebook is authored by Kelvin Mwenda.
+This notebook is authored by Kelvin Mwenda. (kmwendanjoki@gmail.com).
 
 
